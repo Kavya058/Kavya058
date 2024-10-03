@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Kavya058
+- 👀 I’m interested in Software developing 
+- I have created projects on blockchain,web development,databases and many more
+- One of my project is Blockchain based certificate verification system, using the concept of blockchain I had made a basic system where our our certificates are validated if they are valid ones or not.
+- One of my other project is Facebook clone where I had made a clone of facebook using HTML,CSS, and JS.
+- I have good knowledge on SQL databases. 
